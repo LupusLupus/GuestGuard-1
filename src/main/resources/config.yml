@@ -1,0 +1,7 @@
+#GuestGuard Configuration File
+
+stopChat: true
+
+stopPlace: true
+
+stopBreak: true

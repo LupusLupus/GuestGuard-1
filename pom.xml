@@ -2,7 +2,6 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.lupus.guestguard.guestguard</groupId>
     <artifactId>GuestGuard</artifactId>
-    <version>1.4</version>
     <name>GuestGuard</name>
     <url>http://ludo0777.tumblr.com/</url>
     <repositories>
@@ -31,4 +30,5 @@
             <version>1.1-R6</version>
         </dependency>
     </dependencies>
+    <version>0.5</version>
 </project>

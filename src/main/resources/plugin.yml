@@ -4,7 +4,7 @@ description: Control what guests can do on your server!
 main: us.lupusbukkit.GuestGuard.GuestGuard
 name: 'GuestGuard'
 startup: postworld
-version: '0.4'
+version: '0.5'
 permissions:  
   guestguard.build:
     default: op
