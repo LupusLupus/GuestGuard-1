@@ -4,10 +4,7 @@ description: Prevent Players from Building
 main: us.lupusbukkit.GuestGuard.GuestGuard
 name: 'GuestGuard'
 startup: postworld
-version: '0.3'
-commands:
-  gg:
-    description: Turn protection on or off
+version: '0.4'
 permissions:  
   guestguard.build:
     default: op
@@ -15,3 +12,6 @@ permissions:
   guestguard.command:
     default: op
     description: Allow players to perform /gg on and /gg off
+  guestguard.chat:
+    default: op
+    description: Allow players to chat
