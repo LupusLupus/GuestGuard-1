@@ -1,6 +1,6 @@
 author: Lupus and Ludo0777
 database: false
-description: Prevent Players from Building
+description: Control what guests can do on your server!
 main: us.lupusbukkit.GuestGuard.GuestGuard
 name: 'GuestGuard'
 startup: postworld
