@@ -1,1 +1,1 @@
-GuestGuard is a plugin created by Lupus and Ludo0777, in an attempt to make a simple anti-build plugin. It is very simple to use. If you have OP, or have the permission guestguard.build, you will be able to create and destroy blocks. If you do not have that permission or OP status, then it will not allow the action and inform the player.
+GuestGuard is a plugin created by Lupus and Ludo0777, in an attempt to make a simple to use plugin, allowing you to limit what guests on your server can do.
