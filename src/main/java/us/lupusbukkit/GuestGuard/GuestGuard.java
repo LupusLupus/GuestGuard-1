@@ -1,15 +1,15 @@
 package us.lupusbukkit.GuestGuard;
 import org.bukkit.ChatColor;
-import org.bukkit.command.Command;
-import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.event.block.BlockPlaceEvent;
+import org.bukkit.event.player.PlayerChatEvent;
 import org.bukkit.plugin.java.JavaPlugin;
  
 public class GuestGuard extends JavaPlugin implements Listener {
+    @Override
     public void onDisable(){
        
         System.out.println(this + " is now disabled!");
